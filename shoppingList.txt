@@ -1,1 +1,5 @@
-h
+hello this is a shopping list
+
+1.rice
+2.flour
+3.barley
